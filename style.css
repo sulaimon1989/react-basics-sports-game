@@ -1,0 +1,17 @@
+.stats{
+    display: flex;
+    flex-direction: row;
+}
+
+.versus{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+  }
